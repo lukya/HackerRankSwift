@@ -19,11 +19,12 @@ func veryBigSum() {
     /// initialize the sum to 0
     var sum : CLongLong = 0
     
-    /// loop through the lobng array
+    /// loop through the long array and add
     for i in 0 ..< n {
         sum = sum + arr[i]
     }
     
+    /// print the sum
     print(sum)
 
 }

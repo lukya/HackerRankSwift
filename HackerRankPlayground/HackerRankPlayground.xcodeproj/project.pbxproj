@@ -11,6 +11,8 @@
 		BDD7AB6B1D53B68F00AC6A87 /* 2-SimpleArraySum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD7AB6A1D53B68F00AC6A87 /* 2-SimpleArraySum.swift */; };
 		BDD7AB6D1D53B73200AC6A87 /* 3-CompareTrimplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD7AB6C1D53B73200AC6A87 /* 3-CompareTrimplets.swift */; };
 		BDD7AB6F1D53BA6200AC6A87 /* 4-VeryBigSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD7AB6E1D53BA6200AC6A87 /* 4-VeryBigSum.swift */; };
+		BDD7AB711D53C79800AC6A87 /* 5-DiagonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD7AB701D53C79800AC6A87 /* 5-DiagonalDifference.swift */; };
+		BDD7AB731D53D0E500AC6A87 /* 6-PlusMinus.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD7AB721D53D0E500AC6A87 /* 6-PlusMinus.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +33,8 @@
 		BDD7AB6A1D53B68F00AC6A87 /* 2-SimpleArraySum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2-SimpleArraySum.swift"; sourceTree = "<group>"; };
 		BDD7AB6C1D53B73200AC6A87 /* 3-CompareTrimplets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "3-CompareTrimplets.swift"; sourceTree = "<group>"; };
 		BDD7AB6E1D53BA6200AC6A87 /* 4-VeryBigSum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "4-VeryBigSum.swift"; sourceTree = "<group>"; };
+		BDD7AB701D53C79800AC6A87 /* 5-DiagonalDifference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "5-DiagonalDifference.swift"; sourceTree = "<group>"; };
+		BDD7AB721D53D0E500AC6A87 /* 6-PlusMinus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "6-PlusMinus.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,8 @@
 				BDD7AB6A1D53B68F00AC6A87 /* 2-SimpleArraySum.swift */,
 				BDD7AB6C1D53B73200AC6A87 /* 3-CompareTrimplets.swift */,
 				BDD7AB6E1D53BA6200AC6A87 /* 4-VeryBigSum.swift */,
+				BDD7AB701D53C79800AC6A87 /* 5-DiagonalDifference.swift */,
+				BDD7AB721D53D0E500AC6A87 /* 6-PlusMinus.swift */,
 			);
 			path = Warmup;
 			sourceTree = "<group>";
@@ -146,6 +152,8 @@
 			files = (
 				BDD7AB6D1D53B73200AC6A87 /* 3-CompareTrimplets.swift in Sources */,
 				BDD7AB6B1D53B68F00AC6A87 /* 2-SimpleArraySum.swift in Sources */,
+				BDD7AB711D53C79800AC6A87 /* 5-DiagonalDifference.swift in Sources */,
+				BDD7AB731D53D0E500AC6A87 /* 6-PlusMinus.swift in Sources */,
 				BD28F3711D53ACFD00FE84CD /* main.swift in Sources */,
 				BDD7AB6F1D53BA6200AC6A87 /* 4-VeryBigSum.swift in Sources */,
 			);
