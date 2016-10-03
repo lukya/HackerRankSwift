@@ -16,6 +16,10 @@
 		BDD7AB6F1D53BA6200AC6A87 /* 4-VeryBigSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD7AB6E1D53BA6200AC6A87 /* 4-VeryBigSum.swift */; };
 		BDD7AB711D53C79800AC6A87 /* 5-DiagonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD7AB701D53C79800AC6A87 /* 5-DiagonalDifference.swift */; };
 		BDD7AB731D53D0E500AC6A87 /* 6-PlusMinus.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD7AB721D53D0E500AC6A87 /* 6-PlusMinus.swift */; };
+		BDE74B721D5D0EC400091621 /* 1-CookieParty.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE74B6F1D5D0EC400091621 /* 1-CookieParty.swift */; };
+		BDE74B731D5D0EC400091621 /* 2-MakingPolygons.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE74B701D5D0EC400091621 /* 2-MakingPolygons.swift */; };
+		BDE74B741D5D0EC400091621 /* 3-MatchingSets.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE74B711D5D0EC400091621 /* 3-MatchingSets.swift */; };
+		BDE74B761D5D0EDE00091621 /* 4-NumberOfSequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE74B751D5D0EDE00091621 /* 4-NumberOfSequences.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +45,10 @@
 		BDD7AB6E1D53BA6200AC6A87 /* 4-VeryBigSum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "4-VeryBigSum.swift"; sourceTree = "<group>"; };
 		BDD7AB701D53C79800AC6A87 /* 5-DiagonalDifference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "5-DiagonalDifference.swift"; sourceTree = "<group>"; };
 		BDD7AB721D53D0E500AC6A87 /* 6-PlusMinus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "6-PlusMinus.swift"; sourceTree = "<group>"; };
+		BDE74B6F1D5D0EC400091621 /* 1-CookieParty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "1-CookieParty.swift"; sourceTree = "<group>"; };
+		BDE74B701D5D0EC400091621 /* 2-MakingPolygons.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "2-MakingPolygons.swift"; sourceTree = "<group>"; };
+		BDE74B711D5D0EC400091621 /* 3-MatchingSets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "3-MatchingSets.swift"; sourceTree = "<group>"; };
+		BDE74B751D5D0EDE00091621 /* 4-NumberOfSequences.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "4-NumberOfSequences.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +81,7 @@
 		BD28F36F1D53ACFD00FE84CD /* HackerRankPlayground */ = {
 			isa = PBXGroup;
 			children = (
+				BDE74B6E1D5D0EC400091621 /* WeekOfCode22 */,
 				BDD7AB681D53B68E00AC6A87 /* Algorithms */,
 				BD28F3701D53ACFD00FE84CD /* main.swift */,
 			);
@@ -108,6 +117,17 @@
 				BD6E868A1D550D5000F9478A /* 8-TimeConversion.swift */,
 			);
 			path = Warmup;
+			sourceTree = "<group>";
+		};
+		BDE74B6E1D5D0EC400091621 /* WeekOfCode22 */ = {
+			isa = PBXGroup;
+			children = (
+				BDE74B6F1D5D0EC400091621 /* 1-CookieParty.swift */,
+				BDE74B701D5D0EC400091621 /* 2-MakingPolygons.swift */,
+				BDE74B711D5D0EC400091621 /* 3-MatchingSets.swift */,
+				BDE74B751D5D0EDE00091621 /* 4-NumberOfSequences.swift */,
+			);
+			path = WeekOfCode22;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -172,9 +192,13 @@
 				BDD7AB711D53C79800AC6A87 /* 5-DiagonalDifference.swift in Sources */,
 				BD6E868B1D550D5000F9478A /* 8-TimeConversion.swift in Sources */,
 				BDD42A3E1D590B4B0064924A /* 1-Kangaroo.swift in Sources */,
+				BDE74B741D5D0EC400091621 /* 3-MatchingSets.swift in Sources */,
 				BDD7AB731D53D0E500AC6A87 /* 6-PlusMinus.swift in Sources */,
 				BD6E86891D5506DF00F9478A /* 7-Staircase.swift in Sources */,
 				BD28F3711D53ACFD00FE84CD /* main.swift in Sources */,
+				BDE74B721D5D0EC400091621 /* 1-CookieParty.swift in Sources */,
+				BDE74B761D5D0EDE00091621 /* 4-NumberOfSequences.swift in Sources */,
+				BDE74B731D5D0EC400091621 /* 2-MakingPolygons.swift in Sources */,
 				BDD7AB6F1D53BA6200AC6A87 /* 4-VeryBigSum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
